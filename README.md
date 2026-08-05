@@ -96,7 +96,11 @@ Portfolio/
 └── LICENSE
 ```
 
+View this file for Screenshots
 ---
+Portfolio_Showcase_Documentation.docx
+
+
 
 ## 🎯 Goals
 
